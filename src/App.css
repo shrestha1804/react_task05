@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+#dob{
+  width: 260px;
+  height:30px;
+}
+ .btn{
+  background-color: rgb(69, 69, 231);
+  color: white;
+  margin-top: 20px;
+  height:40px;
+  border: 0px ;
+  border-radius: 5px;
+ }
+
